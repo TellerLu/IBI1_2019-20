@@ -8,9 +8,9 @@ Created on Wed Mar 18 12:16:02 2020
 # import libraries
 import xml.dom.minidom
 import pandas as pd
-import os
+#import os
 # change the working directory
-os.chdir('E:/zheda/Anaconda/Files')
+#os.chdir('E:/zheda/Anaconda/Files')
 # define variables
 ID1 = []; Name1 = []; Defstr1 = []; Is_a1 = []; CN=[]; count = 0; childnodes_number = []
 # read the file and get list of elements

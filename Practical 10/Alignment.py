@@ -7,9 +7,9 @@ Created on Fri May 15 01:29:45 2020
 
 # import libraries
 import pandas as pd
-import os
+#import os
 #change the working directory
-os.chdir('E:/zheda/Anaconda/Files')
+#os.chdir('E:/zheda/Anaconda/Files')
 # define variables
 mp=''; hp=''; rp=''; lib='ARNDCQEGHILKMFPSTWYVBZX'; score1=0; score2=0; score3=0;
 edit_distance1=0; edit_distance2=0; edit_distance3=0

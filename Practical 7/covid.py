@@ -8,9 +8,9 @@ Created on Fri May 15 01:32:43 2020
 # import libraries
 import matplotlib.pyplot as plt
 import pandas as pd
-import os
+#import os
 #change the working directory
-os.chdir('E:/zheda/Anaconda/Files')
+#os.chdir('E:/zheda/Anaconda/Files')
 # import variables
 l=[]; newcases=[]; world=[]; spain=[]
 # read the file

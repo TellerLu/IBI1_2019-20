@@ -5,6 +5,7 @@ Created on Wed Mar 18 12:16:02 2020
 @author: Dell
 """
 
+# I assume that the complexity O(n) should be (5/2)*(n!)**2
 # import libraries
 import re
 import sys

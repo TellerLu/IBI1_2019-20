@@ -7,9 +7,9 @@ Created on Sat Apr  4 16:18:43 2020
 
 # import library
 import re
-import os
+#import os
 #change the working directory
-os.chdir('E:/zheda/Anaconda/Files')
+#os.chdir('E:/zheda/Anaconda/Files')
 # define variables
 g=[]
 n=[]
