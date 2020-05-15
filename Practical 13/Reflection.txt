@@ -1,0 +1,8 @@
+Task 1 SIR model
+This task was quite simple and easy to understand. It was important to stay careful to make sure the variables were assigned correctly. I think the most importants thing I learned were the use of np.random.choice and this kind of way to simulate the spread of infectious disease.
+Task 2 SIR vaccination
+This was a bit harder than the first one but they were similar so the codes could be written according to the first one. Apart from being careful, the hardest part might be typing in the labels one by one. The method of using loop to get eleven sets of datas was not very hard to think but was important. At first, I was confused about how to deal with these vaccinated people, but then I realized that I could consider them as recovered people. The most important thing I learned was finding ways to make the program simpler and trying to look things in different perspective.
+Task 3 spatial SIR
+This was complicated especially the infection part. At first, I did not know how to randomly infect neighbors. Then I realized np.random.choice could also be used in this task, the next step was getting the location of the neighboes of a infected person and that was not so hard. The most important things I learned were using array to simulate population in 2D level and used numbers to show their states.
+
+I most enjoy the moments when the figures were printed out especially in task 3. That process of simulating the spread of infectious disease was quite interesting.

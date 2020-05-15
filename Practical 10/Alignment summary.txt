@@ -1,0 +1,8 @@
+The final score between mousesequences and humansequences 1091
+The final score between mousesequences and randomsequences -250
+The final score between randomsequences and humansequences -250
+The edit diatance between human sequences and mouse sequences: 23
+The edit diatance between random sequences and human sequences: 210
+The edit diatance between random sequences and mouse sequences: 209
+
+Compared to random sequences, human sequences and mouse sequences are more similar since score between mouse sequences and human sequences was 1091, much larger than that between mouse/human sequences and randomsequences which is -250. Also, the edit diatance between human sequences and mouse sequences is 23, much smaller than that between random sequences and mouse/human sequenceswhich are around 210. This shows a nonnegligible similarity between these two given human and mouse proteins. They might have similar properties and have to do with similar functions.

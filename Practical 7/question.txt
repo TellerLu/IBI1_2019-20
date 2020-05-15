@@ -1,0 +1,5 @@
+How have new cases and total cases developed over time in Spain?
+
+line 68-line83
+
+It could be seen that number of new cases and total cases in Spain both changed slowly at the beginning and suddenly increased drastically later. It is similar to what we expected. Because COVID-19 was a highly contagious disease, its cases will develop quickly even with extremely powerful measures. The number of cases changed slowly at beginning because the number of infected people was small. When it started to increase, we could see a geometric growth. This shows that epidemic was hard to control at that time in Spain and more actions should be taken.
