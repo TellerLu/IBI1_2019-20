@@ -4,8 +4,8 @@ Created on Wed Mar 18 12:16:02 2020
 
 @author: Dell
 """
-
-# I assume that the complexity O(n) should be (5/2)**n * (n!)**2
+# for n numbers there might be n*((n-1)!)^2 * (5/2)^n of possible equations
+# I assume that the complexity O() should be O((5/2)^n*n*((n-1)!)^2)
 # import libraries
 import re
 import sys
